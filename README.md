@@ -17,7 +17,8 @@ It helps developers maintain clean, consistent, and high-quality code by analyzi
 
 ## 🎥 Demo Video
 
-[Click here to watch the demo](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+[![Demo](docs/demo-thumbnail.png)](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+
 
 
 ---
